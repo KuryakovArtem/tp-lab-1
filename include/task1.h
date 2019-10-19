@@ -1,3 +1,3 @@
 #pragma once
 unsigned long findValue(unsigned int min, unsigned int max);
-unsigned long Nok(unsigned int a, unsigned int b);
+unsigned long Nok(unsigned long a, unsigned long b);
