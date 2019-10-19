@@ -2,9 +2,9 @@
 
 unsigned long long sumPrime(unsigned int hbound)
 {
-	int sum = 0;
+	unsigned long long sum = 0;
 
-	for (int i = 0; i < hbound; i++)
+	for (int i = 2; i < hbound; i++)
 	{
 		if (checkPrime(i))
 		{
