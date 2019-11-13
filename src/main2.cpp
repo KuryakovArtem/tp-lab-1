@@ -1,6 +1,6 @@
 #include "task2.h"
 #include <iostream>
-int main2()
+int main()
 {
 	int n;
 	

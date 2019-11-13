@@ -3,7 +3,7 @@
 using namespace std;
 
 
-int main4()
+int main()
 {
 	 char a[] ="999999999999999999999999999999999999";
 	 char b[] = "1";

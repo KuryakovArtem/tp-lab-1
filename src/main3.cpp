@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main3()
+int main()
 {
 	int a;
 	cin >>a;
